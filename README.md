@@ -22,7 +22,7 @@ This is a C# Windows Forms application that connects to a Microsoft SQL Server d
 
 1. **Clone the repository**:
   
-   git clone https://github.com/yourusername/schools-database.git
+   git clone https://github.com/HeetPatel07/DataBase-Group-Project-.git
   
 
 2. **Install Visual Studio**: Make sure you have Visual Studio installed with support for C# and Windows Forms applications.
