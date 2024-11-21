@@ -53,10 +53,3 @@ This is a C# Windows Forms application that connects to a Microsoft SQL Server d
 4. **Query 4**: Retrieves dependent information for non-academic staff and teachers based on salary/pay scale.
 5. **Query 5**: Retrieves teacher details including their name, school email, and faculty department.
 
-## Contributors
-
-- **Heet Patel**: Developer
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
